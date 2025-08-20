@@ -12,3 +12,5 @@ Powerpointでゲーム制作とはどういうことか？<br>
 scratchを卒業し、テキストプログラミングへと踏み出した最初の制作物となりました。
 
 ※再配布はご遠慮ください
+
+<img src="https://github.com/zakky-daily/automaze/blob/main/image.png" width="60%">
