@@ -14,3 +14,8 @@ scratchを卒業し、テキストプログラミングへと踏み出した最�
 ※再配布はご遠慮ください
 
 <img src="https://github.com/zakky-daily/automaze/blob/main/image.png" width="60%">
+
+<br><br>
+
+|実行方法　Automaze.pptmをダウンロードしてPowerpointを立ち上げてください。|
+|:-|
